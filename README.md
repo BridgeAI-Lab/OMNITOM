@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://arxiv.org/abs/2605.26322"><img src="https://img.shields.io/badge/arXiv-2605.26322-b31b1b.svg" alt="arXiv"></a>
   <a href="https://adam-12-0.github.io/omnitom-project/"><img src="https://img.shields.io/badge/Project-Page-blue.svg" alt="Project Page"></a>
-  <a href="https://github.com/Adam-12-0/omnitom-benchmark"><img src="https://img.shields.io/badge/GitHub-Benchmark-black.svg?logo=github" alt="GitHub"></a>
+  <a href="https://github.com/BridgeAI-Lab/OMNITOM"><img src="https://img.shields.io/badge/GitHub-Benchmark-black.svg?logo=github" alt="GitHub"></a>
   <a href="https://huggingface.co/datasets/Adam-12-0/omnitom-benchmark"><img src="https://img.shields.io/badge/Hugging%20Face-Dataset-yellow.svg?logo=huggingface" alt="Hugging Face Dataset"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License"></a>
 </p>
