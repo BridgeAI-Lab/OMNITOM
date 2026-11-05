@@ -213,4 +213,4 @@ Paper: [OmniToM on arXiv](https://arxiv.org/abs/2605.26322)
 
 Code and evaluation scripts: [BridgeAI-Lab/OMNITOM](https://github.com/BridgeAI-Lab/OMNITOM)
 
-Project page: [OmniToM](https://adam-12-0.github.io/omnitom-project/)
+Project page: [OmniToM](https://bridgeai-lab.github.io/OMNITOM/)
